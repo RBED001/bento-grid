@@ -1,0 +1,56 @@
+.rounded {
+  border-radius: 12px !important;
+}
+.bg-primary {
+  background-color: #7748e6 !important;
+}
+.bg-warning {
+  background-color: rgb(229, 186, 107) !important;
+}
+.bg-success {
+  background-color: #cabaef !important;
+}
+.bg-danger {
+  background-color: rgb(250, 240, 221) !important;
+}
+.text-danger {
+  color: #7748e6 !important;
+}
+.my-row {
+  display: grid !important;
+  gap: 10px;
+ 
+}
+.create {
+  grid-row: 1 / 3 !important;
+  grid-column: 1/2 !important;
+}
+.social {
+  grid-row: 1 !important;
+  grid-column: 2/6 !important;
+}
+.schedule {
+  grid-row: 1/4 !important;
+  grid-column: 6/7 !important;
+}
+.write {
+  grid-row: 3/5 !important;
+  grid-column: 1/2 !important;
+}
+.manage {
+  grid-row: 3/4 !important;
+  grid-column: 2/4 !important;
+}
+.maintain {
+  grid-row: 3/4 !important;
+  grid-column: 4/6 !important;
+}
+.faster {
+  grid-row: 4/5 !important;
+  grid-column: 2/4 !important;
+}
+.grow {
+    
+  grid-row: 4/5 !important;
+  grid-column: 4/7 !important;
+}
